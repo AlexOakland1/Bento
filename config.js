@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Soundcloud',
-			icon: 'cloud-drizzle',
-			link: 'https://soundcloud.com/',
+			name: 'Google Drive',
+			icon: 'hard-drive',
+			link: 'https://drive.google.com/drive/u/1/my-drive',
 		},
 	],
 
