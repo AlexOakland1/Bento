@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://twitch.tv',
+			name: 'Roblox',
+			icon: 'dice-1',
+			link: 'https://roblox.com/home',
 		},
 		{
 			id: '4',
@@ -76,10 +76,10 @@ const CONFIG = {
 			link: 'https://mail.google.com/mail/u/1/#inbox',
 		},
 		{
-			id: '5',
-			name: 'Roblox',
-			icon: 'dice-1',
-			link: 'https://roblox.com/home',
+			id: '3',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.tv',
 		},
 		{
 			id: '6',
