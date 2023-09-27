@@ -76,7 +76,7 @@ const CONFIG = {
 			link: 'https://mail.google.com/mail/u/1/#inbox',
 		},
 		{
-			id: '3',
+			id: '5',
 			name: 'Twitch',
 			icon: 'twitch',
 			link: 'https://twitch.tv',
