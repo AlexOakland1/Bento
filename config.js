@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://webmail.oakland.edu/',
 				},
 				{
-					name: 'School Drive',
-					link: 'https://drive.google.com/',
+					name: 'Google Cloud',
+					link: 'https://console.cloud.google.com/compute/instances?authuser=2&project=antonich-4160-f23',
 				},
 				{
 					name: 'MySail',
