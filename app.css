@@ -35,19 +35,19 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #a27fd6; /* Hover color */
-  --background: #21222c; /* Background color */
-  --cards: #282a36; /* Cards color */
+  --accent: #aa0000; /* Hover color */
+  --background: #262626; /* Background color */
+  --cards: #191919; /* Cards color */
 
   /* Fonts Color */
-  --fg: #f8f8f2; /* Foreground color */
-  --sfg: #f8f8f2; /* Secondary Foreground color */
+  --fg: #ffffff; /* Foreground color */
+  --sfg: #ffffff; /* Secondary Foreground color */
 
   /* Image background  */
   --imgbg: url(keys-d.jpg);
   --imgcol: linear-gradient(
-    rgba(40, 42, 54, 0.75),
-    rgba(40, 42, 54, 0.75)
+    rgba(38, 38, 38, 0.85),
+    rgba(38, 38, 38, 0.85)
   ); /* Filter color */
 }
 
