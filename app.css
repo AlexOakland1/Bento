@@ -46,8 +46,8 @@
   /* Image background  */
   --imgbg: url(keys-d.jpg);
   --imgcol: linear-gradient(
-    rgba(19, 19, 19, 0.85),
-    rgba(19, 19, 19, 0.85)
+    rgba(19, 19, 19, 0.75),
+    rgba(19, 19, 19, 0.75)
   ); /* Filter color */
 }
 
