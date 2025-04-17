@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '272f10436fa1600ccee6a403a085da8d', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Roblox',
-			icon: 'dice-1',
-			link: 'https://roblox.com/home',
+			name: 'Potato.TF',
+			icon: 'crosshair',
+			link: 'https://potato.tf/servers',
 		},
 		{
 			id: '4',
