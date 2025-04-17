@@ -35,9 +35,9 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #C01C28; /* Hover color */
+  --accent: #3584e4; /* Hover color */
   --background: #1e1e1e; /* Background color */
-  --cards: #303030; /* Cards color */
+  --cards: #353535; /* Cards color */
 
   /* Fonts Color */
   --fg: #ffffff; /* Foreground color */
@@ -57,7 +57,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Adwaita Sans', 'Inter', sans-serif;
+  font-family: 'IBM Plex Sans', 'Inter', sans-serif;
   transition: 0.2s ease-in-out;
 }
 
