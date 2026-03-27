@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'monitor-play',
 			link: 'https://youtube.com/',
 		},
 		{
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Twitch',
-			icon: 'twitch',
+			icon: 'bot-message-square',
 			link: 'https://twitch.tv',
 		},
 		{
